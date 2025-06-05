@@ -1,9 +1,10 @@
-# TEST123
+# TEST123 Web Apps
 
-This repository contains a simple JavaScript web page demonstrating a basic widget.
+This repository now contains a small collection of simple web apps.
 
-## Getting Started
+## Available Apps
+- **Counter App** (`counter.html`)
+- **Calculator App** (`calculator.html`)
+- **Todo App** (`todo.html`)
 
-Open `index.html` in your web browser to view the page.
-
-Click the **Increment** button to see the counter widget update.
+Open `index.html` to access the list of apps.
