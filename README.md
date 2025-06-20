@@ -6,6 +6,8 @@ This repository now contains a small collection of simple web apps.
 - **Counter App** (`counter.html`)
 - **Calculator App** (`calculator.html`)
 - **Todo App** (`todo.html`)
+- **Stopwatch App** (`stopwatch.html`)
+- **Color Picker App** (`colorpicker.html`)
 
 Open `index.html` to access the list of apps.
 
